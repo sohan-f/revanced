@@ -1,6 +1,6 @@
 {
-  "version": "v9.15.51 (patches 1.40.0.mpp)",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/sohan-f/I/releases/download/2/music-morphe-module-v9.15.51-arm-v7a.zip",
-  "changelog": "https://raw.githubusercontent.com/sohan-f/I/update/build.md"
+  "version": "v9.15.51 (patches 1.41.0.mpp)",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/sohan-f/revanced/releases/download/4/music-morphe-module-v9.15.51-arm-v7a.zip",
+  "changelog": "https://raw.githubusercontent.com/sohan-f/revanced/update/build.md"
 }
